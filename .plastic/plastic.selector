@@ -1,4 +1,0 @@
-repository "591EscapeRoom@CSC_591_org@cloud"
-  path "/"
-    br "/main"
-    co "/main"
